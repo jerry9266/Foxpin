@@ -1,0 +1,13 @@
+{
+  "name": "foxpin-bot",
+  "version": "1.0.0",
+  "description": "Foxpin Telegram welcome bot: replies to /start with the banner and a Play button",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "ISC"
+}
